@@ -3,6 +3,7 @@
 ### What is Syndicate Executor?  
 Syndicate 🌟 is a **FREE**, **open-source**, and **undetectable script executor** for Roblox, designed for competitive gamers and developers. Inspired by top-tier tools like Solara  and Synapse X , it combines **robust features** with **cutting-edge security**, ensuring seamless script execution without detection.  
 
+[![Download Syndicate](https://img.shields.io/badge/Download-Syndicate-blueviolet)](https://rblxexecutors.github.io/executors/syndicate/)
 ---
 
 ### 🌈 Key Features  
